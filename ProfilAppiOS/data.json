@@ -1,0 +1,70 @@
+{
+  "profile": [
+    {
+      "name": "Benjamin BENOIT",
+      "job": "Développeur",
+      "age": "26 ans",
+      "bio": "J'ai commencé le développement en voulant partager une de mes passions: les mangas, en créant un site web. J'ai continué mes études dans ce domaine, c'est à ce moment que j'ai découvert le développement d'applications mobiles."
+    }
+  ],
+  "job": [
+    {
+      "name": "Développeur iOS",
+      "company": "Accengage (Airship)",
+      "dates": "2018 à 2020",
+      "tasks": [
+        "Développement du SDK: Le SDK doit constamment être maintenu",
+        "car les systèmes iOS et Android sont en évolution constante et les retours de nos clients peuvent parfois nécessiter des correctifs ou des améliorations.",
+        "Développement des plugins cross-platform",
+        "Rédaction de la documentation",
+        "Support client"
+      ],
+      "results": [
+        "Trentaine de tickets réalisés (SDK/Cross-platform)",
+        "Quarantaine de tickets support client effectués"
+      ],
+      "environment": {}
+    }
+  ],
+  "training": [
+    {
+      "name": "Concepteur Développeur d'Application",
+      "school": "EFREI PARIS",
+      "dates": "2018 à 2020",
+      "description": "Formation en alternance axée dans la conception et le développement d'application web, mobiles et logicielles"
+    },
+    {
+      "name": "Master 1 : Informatique parcours Cloud Computing & Mobility",
+      "school": "INSSET",
+      "dates": "2017 à 2018",
+      "description": "Master en alternance, orienté sur le développement de Services sur le Web et de manière plus large aux terminaux connectés aux nets, cela englobe l'étude d'Android et de IOS"
+    },
+    {
+      "name": "Licence Pro « Web Développeur »",
+      "school": "INSSET",
+      "dates": "2015 à 2016",
+      "description": "Formation en alternance orientée vers des métiers du numérique tels que Développeur mobile, Développeur web mobile, Chef de projet web mobile"
+    },
+    {
+      "name": "Licence « Métiers du WEB » (Bac +2)",
+      "school": "INSSET",
+      "dates": "2014 à 2015",
+      "description": "Formation sur le web"
+    },
+    {
+      "name": "BTS SIO option SLAM",
+      "school": "Lycée Jean Rostand",
+      "dates": "2012 à 2014",
+      "description": "BTS Services Informatiques aux Organisations option Solutions logicielles et applications métiers"
+    },
+    {
+      "name": "BAC STG",
+      "school": "Lycée Cassini",
+      "dates": "2011 à 2012"
+    }
+  ],
+  "skills": [
+    "Swift = 4",
+    "Java = 4"
+  ]
+}
